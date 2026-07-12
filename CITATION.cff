@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "The Family Education Practitioner’s Handbook: Open Educational Resource Edition, Version 1.0"
+message: "If you use this resource, please cite it as below."
+type: book
+authors:
+  - family-names: Li
+    given-names: Yanxi
+    name-particle: ""
+    name-suffix: ""
+    affiliation: "Liuzhou City Vocational College"
+year: 2026
+version: "V1.0"
+doi: "10.5281/zenodo.21322095"
+url: "https://doi.org/10.5281/zenodo.21322095"
+abstract: "An open educational resource for family education practitioners, including the handbook, AI Skills, and practical teaching tools."
+keywords:
+  - family education guidance
+  - home-school communication
+  - parent education
+  - teacher professional development
+  - artificial intelligence in education
+  - open educational resources
+license: "CC-BY-NC-ND-4.0"
+preferred-citation:
+  type: book
+  authors:
+    - family-names: Li
+      given-names: Yanxi
+      affiliation: "Liuzhou City Vocational College"
+  title: "The Family Education Practitioner’s Handbook: Open Educational Resource Edition, Version 1.0"
+  year: 2026
+  version: "V1.0"
+  doi: "10.5281/zenodo.21322095"
+  url: "https://doi.org/10.5281/zenodo.21322095"
