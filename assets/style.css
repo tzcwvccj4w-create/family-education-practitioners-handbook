@@ -18,7 +18,7 @@ h1{font-size:clamp(2.2rem,5vw,4.5rem);line-height:1.13;margin:.2em 0}.subtitle{f
 .actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}.btn{display:inline-flex;align-items:center;gap:8px;padding:12px 18px;border-radius:12px;font-weight:750;border:1px solid var(--line);background:#fff;color:var(--ink);box-shadow:0 4px 14px rgba(31,70,110,.08)}
 .btn.primary{background:linear-gradient(135deg,var(--brand),#3285df);color:#fff;border:none}.btn.teal{background:linear-gradient(135deg,var(--brand2),#17aa9d);color:#fff;border:none}
 section{padding:64px 0}.section-title{font-size:2rem;margin:0 0 12px}.section-lead{color:var(--muted);max-width:760px;margin-bottom:26px}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:var(--shadow)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px}.card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:var(--shadow)}
 .card h3{margin-top:0}.icon{font-size:1.7rem}.chapter-list,.skill-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
 .chapter-link,.skill-card{display:block;background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px;transition:.18s}.chapter-link:hover,.skill-card:hover{transform:translateY(-2px);box-shadow:var(--shadow);text-decoration:none}
 .chapter-num{font-size:.82rem;color:var(--brand);font-weight:800}.chapter-link strong,.skill-card strong{display:block;color:var(--ink);font-size:1.05rem}.meta{color:var(--muted);font-size:.9rem}
