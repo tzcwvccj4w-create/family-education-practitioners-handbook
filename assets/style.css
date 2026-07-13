@@ -56,3 +56,7 @@ pre.skill-source{white-space:pre-wrap;background:#152033;color:#eef5ff;padding:2
 .tip-list li{margin:8px 0}
 .inline-link{font-weight:700}
 @media(max-width:920px){.hero-grid,.guide-grid{grid-template-columns:1fr}.author-card{max-width:460px}.author-mini{align-items:flex-start}}
+
+
+.author-card:not(:has(img)){padding:28px}
+.author-card:not(:has(img)) h3{text-align:left;margin-top:0}
