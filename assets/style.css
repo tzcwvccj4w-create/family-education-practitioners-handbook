@@ -60,3 +60,15 @@ pre.skill-source{white-space:pre-wrap;background:#152033;color:#eef5ff;padding:2
 
 .author-card:not(:has(img)){padding:28px}
 .author-card:not(:has(img)) h3{text-align:left;margin-top:0}
+
+
+.author-card.no-photo{
+  padding:28px;
+}
+.author-card.no-photo h3{
+  text-align:left;
+  margin-top:0;
+}
+.author-card.no-photo p{
+  text-align:left;
+}
