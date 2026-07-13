@@ -72,3 +72,8 @@ pre.skill-source{white-space:pre-wrap;background:#152033;color:#eef5ff;padding:2
 .author-card.no-photo p{
   text-align:left;
 }
+
+
+/* V2.5: 简洁化首页和使用说明页 */
+.hero .actions:empty{display:none}
+.guide-grid .soft-card{background:#fff}
