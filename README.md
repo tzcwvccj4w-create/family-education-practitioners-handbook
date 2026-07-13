@@ -84,3 +84,4 @@ family-education-practitioners-handbook/
 ├── LICENSE
 ├── CITATION.cff
 └── CHANGELOG.md
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21322095.svg)](https://doi.org/10.5281/zenodo.21322095)
