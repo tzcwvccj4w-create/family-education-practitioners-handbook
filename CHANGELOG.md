@@ -1,14 +1,22 @@
 # Changelog
 
-## V1.0 - 2026-07
+All notable changes to this project will be documented in this file.
 
-First public release of *The Family Education Practitioner’s Handbook: Open Educational Resource Edition, Version 1.0*.
+---
+
+## V1.0
+Released: 2026-07-12
 
 ### Added
 
-- The full handbook in DOCX/PDF format.
-- AI-assisted family education guidance Skills.
-- Knowledge-point lookup assistant.
-- README with usage instructions.
-- Mixed Creative Commons licensing statement.
-- Zenodo DOI: 10.5281/zenodo.21322095.
+- First public Open Educational Resource edition.
+- Complete handbook (DOCX).
+- Complete handbook (PDF).
+- AI Skills package.
+- README.
+- DOI registration on Zenodo.
+- GitHub repository established.
+
+DOI:
+
+https://doi.org/10.5281/zenodo.21322095
