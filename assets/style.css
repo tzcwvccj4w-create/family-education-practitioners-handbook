@@ -77,3 +77,62 @@ pre.skill-source{white-space:pre-wrap;background:#152033;color:#eef5ff;padding:2
 /* V2.5: 简洁化首页和使用说明页 */
 .hero .actions:empty{display:none}
 .guide-grid .soft-card{background:#fff}
+
+
+/* V2.6: Skill 使用说明 */
+.skill-usage{
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:22px;
+  padding:28px;
+  box-shadow:var(--shadow);
+  margin-bottom:34px;
+}
+.usage-steps{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:14px;
+  margin:18px 0 24px;
+}
+.usage-step{
+  background:var(--soft);
+  border:1px solid var(--line);
+  border-radius:16px;
+  padding:16px;
+}
+.usage-step strong{
+  display:block;
+  color:var(--ink);
+  margin-bottom:4px;
+}
+.guide-gallery{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:18px;
+  margin-top:18px;
+}
+.guide-shot{
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:16px;
+  overflow:hidden;
+  box-shadow:0 8px 20px rgba(29,57,89,.08);
+}
+.guide-shot img{
+  width:100%;
+  display:block;
+  height:auto;
+  background:#f7f9fb;
+}
+.guide-shot figcaption{
+  padding:12px 14px;
+  color:var(--muted);
+  font-size:.92rem;
+}
+.usage-note{
+  background:var(--warm);
+  border-left:4px solid #e3a319;
+  padding:14px 16px;
+  border-radius:10px;
+  margin-top:18px;
+}
